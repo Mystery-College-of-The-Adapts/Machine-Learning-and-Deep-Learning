@@ -18,9 +18,9 @@ CS229 Machine Learning (Stanford) / Coursera's Machine Learning by Andrew Ng
 
 - [ ] Week 3
 
-    - [ ] Videos
-    - [ ] Readings
-    - [ ] Quizzes 
+    - [x] Videos
+    - [x] Readings
+    - [x] Quizzes 
     - [ ] Programming Assignments 
 
     
