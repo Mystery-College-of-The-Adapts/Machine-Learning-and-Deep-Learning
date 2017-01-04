@@ -33,54 +33,54 @@ CS229 Machine Learning (Stanford) / Coursera's Machine Learning by Andrew Ng
     - [x] Programming Assignments 
 
 
-- [ ] Week 5
+- [x] Week 5
 
-    - [ ] Videos
-    - [ ] Readings
-    - [ ] Quizzes 
-    - [ ] Programming Assignments 
-
-
-- [ ] Week 6
-
-    - [ ] Videos
-    - [ ] Readings
-    - [ ] Quizzes 
-    - [ ] Programming Assignments 
+    - [x] Videos
+    - [x] Readings
+    - [x] Quizzes 
+    - [x] Programming Assignments 
 
 
-- [ ] Week 7
+- [x] Week 6
 
-    - [ ] Videos
-    - [ ] Readings
-    - [ ] Quizzes 
-    - [ ] Programming Assignments 
-
-
-- [ ] Week 8
-
-    - [ ] Videos
-    - [ ] Readings
-    - [ ] Quizzes 
-    - [ ] Programming Assignments 
+    - [x] Videos
+    - [x] Readings
+    - [x] Quizzes 
+    - [x] Programming Assignments 
 
 
-- [ ] Week 9
+- [x] Week 7
 
-    - [ ] Videos
-    - [ ] Readings
-    - [ ] Quizzes 
-    - [ ] Programming Assignments 
+    - [x] Videos
+    - [x] Readings
+    - [x] Quizzes 
+    - [x] Programming Assignments 
 
 
-- [ ] Week 10
+- [x] Week 8
 
-    - [ ] Videos
-    - [ ] Readings
-    - [ ] Quizzes 
+    - [x] Videos
+    - [x] Readings
+    - [x] Quizzes 
+    - [x] Programming Assignments 
 
-- [ ] Week 11
 
-    - [ ] Videos
-    - [ ] Readings
-    - [ ] Quizzes 
+- [x] Week 9
+
+    - [x] Videos
+    - [x] Readings
+    - [x] Quizzes 
+    - [x] Programming Assignments 
+
+
+- [x] Week 10
+
+    - [x] Videos
+    - [x] Readings
+    - [x] Quizzes 
+
+- [x] Week 11
+
+    - [x] Videos
+    - [x] Readings
+    - [x] Quizzes 
