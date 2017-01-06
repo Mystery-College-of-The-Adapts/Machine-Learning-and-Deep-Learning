@@ -89,7 +89,7 @@ ___________________________________________________________________________
 
 ## Deep Learning Book by Ian, Yoshua, Aaron
 
-[](map.JPG)
+![alt text](map.JPG)
 
 
 - [ ] Introduction
