@@ -84,3 +84,53 @@ CS229 Machine Learning (Stanford) / Coursera's Machine Learning by Andrew Ng
     - [x] Videos
     - [x] Readings
     - [x] Quizzes 
+
+___________________________________________________________________________
+
+## Deep Learning Book by Ian, Yoshua, Aaron
+
+[](map.JPG)
+
+
+- [ ] Introduction
+
+- [ ] Linear Algebra
+
+- [ ] Probability and Information Theory
+
+- [ ] Numerical Computation
+
+- [ ] Machine Learning Basics
+
+- [ ] Deep Feedforward Networks
+
+- [ ] Regularization
+
+- [ ] Optimization
+
+- [ ] CNNs
+
+- [ ] RNNs
+
+- [ ] Practical Methodology
+
+- [ ] Applications
+
+
+**(Optional)**
+
+- [ ] Linear Factor Models
+
+- [ ] Autoencoders
+
+- [ ] Representation Learning
+
+- [ ] Structured Probabilistic Models
+
+- [ ] Inference
+
+- [ ] Monte Carlo Methods
+
+- [ ] Partition Function
+
+- [ ] Deep Generative Models 
