@@ -1,9 +1,8 @@
-# [x] CS229-Machine-Learning
-CS229 Machine Learning (Stanford) / Coursera's Machine Learning by Andrew Ng
+- [x] CS229 Machine Learning (Stanford) / Coursera's Machine Learning by Andrew Ng
 
-# [ ] CS231n: Convolutional Neural Networks for Visual Recognition
+- [ ] CS231n: Convolutional Neural Networks for Visual Recognition
 
-# [ ] CS20 SI: TensorFlow for Deep Learning Research 
+- [ ] CS20 SI: TensorFlow for Deep Learning Research 
 
 ___________________________________________________________________________
 
